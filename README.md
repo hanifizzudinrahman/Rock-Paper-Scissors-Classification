@@ -9,3 +9,5 @@
 - Training time <= 30 minutes
 - Accuracy >= 97%
 - Callback Method
+
+![image](https://user-images.githubusercontent.com/47806867/135289427-423c82a1-357a-48f0-926d-f59fa2779987.png)
